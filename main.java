@@ -13,6 +13,7 @@ public class main {
         int addition = number1 + number2;
         double division = (double) number1 / number2;
         int subtraction = number1 - number2;
+        // add addition
         System.out.println(number1 + " + " + number2 + " = " + addition);
         System.out.println(number1 + " / " + number2 + " = " + division);
         System.out.println(number1 + " - " + number2 + " = " + subtraction);
