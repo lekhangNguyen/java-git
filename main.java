@@ -15,6 +15,7 @@ public class main {
         int subtraction = number1 - number2;
         // add addition
         System.out.println(number1 + " + " + number2 + " = " + addition);
+        // add division
         System.out.println(number1 + " / " + number2 + " = " + division);
         System.out.println(number1 + " - " + number2 + " = " + subtraction);
     }
