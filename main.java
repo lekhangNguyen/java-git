@@ -17,6 +17,7 @@ public class main {
         System.out.println(number1 + " + " + number2 + " = " + addition);
         // add division
         System.out.println(number1 + " / " + number2 + " = " + division);
+        // add subtraction
         System.out.println(number1 + " - " + number2 + " = " + subtraction);
     }
 }
